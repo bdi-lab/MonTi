@@ -1,0 +1,22 @@
+{
+   "model": "GAT",
+   "data_name": "gossipcop_0.05",
+   "split": 0,
+   "emb_sizes": [
+      64,
+      64
+   ],
+   "lr": 0.01,
+   "weight_decay": 0.0001,
+   "epochs": 1000,
+   "valid_epoch": 10,
+   "batch_size": 1024,
+   "patience": 100,
+   "cuda_id": 0,
+   "save_dir": "./experimental_results/pretraining_multi_new_2nd_GAT_gossipcop_0.05_victim",
+   "exp_num": 0,
+   "head_list": [
+      8,
+      8
+   ]
+}
