@@ -22,7 +22,7 @@ We used Python 3.8, Pytorch 1.13.1, and DGL 1.1.2 with cudatoolkit 11.7.
 
 ## Usage
 
-We conducted our experiments with GeForce RTX 2080 Ti, RTX 3090, or RTX A6000 with Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz, running on Ubuntu 18.04.5 LTS.
+We conducted our experiments using GeForce RTX 2080 Ti, RTX 3090, or RTX A6000 with Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz, running on Ubuntu 18.04.5 LTS.
 
 **Note: For experiments using GAGA, the initial pre-processing step may take 5-10 minutes before the actual training/inference begins.**
 
