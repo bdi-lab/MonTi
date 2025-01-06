@@ -12,7 +12,7 @@ All codes are written by Jinhyeok Choi (cjh0507@kaist.ac.kr). When you use this 
   title={Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks against GNN-Based Fraud Detectors},
   year={2024},
   journal={arXiv preprint arXiv.2412.18370},
-  doi = {10.48550/arXiv.2412.18370}
+  doi={10.48550/arXiv.2412.18370}
 }
 ```
 
