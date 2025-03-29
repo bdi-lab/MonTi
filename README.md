@@ -26,6 +26,15 @@ We conducted our experiments using GeForce RTX 2080 Ti, RTX 3090, or RTX A6000 w
 
 **Note: For experiments using GAGA, the initial pre-processing step may take 5-10 minutes before the actual training/inference begins for the first run.**
 
+### Setup
+
+Before running the commands below, please download the necessary pre-trained models and datasets:
+1.  Download `best_models.zip` and `Datasets.zip` from the following Google Drive link:
+   https://drive.google.com/drive/folders/1E2FE8zDIS4XZA6Fxe5l3hTrXUnfhJ2gr?usp=sharing
+2.  Extract the downloaded files into their corresponding directories:
+    * Extract `best_models.zip` into the `./best_models` directory.
+    * Extract `Datasets.zip` into the `./Datasets` directory.
+
 ### Reproducing Results
 
 To reproduce the results of the best models, you can run the following command:
